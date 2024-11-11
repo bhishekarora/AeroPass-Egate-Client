@@ -1,4 +1,4 @@
-Aeropass Gate client MVP/Lite Version 
+Aeropass Gate client MVP Version 
 ====================
 
 Interacts with peripherals and let PAX pass through as per biometric enrollments.
@@ -7,13 +7,13 @@ Hardware
 ========
 ARM SOC 
 Servo <12 V
-Relays
 Leds
 LCD
 USB Camera
 MIC
 PIR
 
+![Egate](egate.jpg)
 
 Software
 ==========
