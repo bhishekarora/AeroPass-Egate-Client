@@ -1,4 +1,4 @@
-Aeropass Gate client  
+Aeropass Gate controller  
 ====================
 
 Interacts with peripherals and let PAX pass through as per biometric enrollments.
@@ -29,10 +29,10 @@ Interacts with peripherals and let PAX pass through as per biometric enrollments
 - 
 ## Software
 
-- Egate Client interacts with above peripherals 
+- Egate controller interacts with above peripherals 
 - Written in Python
 - Fully customizable peripheral service , new sensors/motors can be added on SOC on demand.
-- Fully extendible client to support any kind of airport systems(DCS/SBDs)
+- Fully extendible controller to support any kind of airport systems(DCS/SBDs)
 
 Version 1.0
 ===========
