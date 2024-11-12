@@ -17,15 +17,15 @@ Interacts with peripherals and let PAX pass through as per biometric enrollments
 
 ## Lite Version Hardware
 - ARM SOC
-- Wooden/Steel Chasis
+- Wooden/Steel Fabricated
 - BLDC
 - Limit Switches
 - Relays
-- PIR Sensors
+- PIR Sensors (Anti tailgate and PAX detection)
 - USB Cam
 - LEDs
 - LCD
-- MIC/Buzzer
+- MIC(Accessibility) /Buzzer(Scan/Error alerts)
 
 ## Features
 
@@ -47,6 +47,7 @@ Interacts with peripherals and let PAX pass through as per biometric enrollments
 Version 1.0
 ===========
 
-Quicksetup 
-==========
+## Wiring setup MVP Version
+<img src="https://github.com/user-attachments/assets/f03d5923-5430-4ba1-b382-3e599ed2167f" width="200">
+
 
