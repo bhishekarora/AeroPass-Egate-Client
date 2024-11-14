@@ -27,6 +27,8 @@ Interacts with peripherals and let PAX pass through as per biometric enrollments
 - LCD
 - MIC(Accessibility) /Buzzer(Scan/Error alerts)
 
+<img src="https://github.com/user-attachments/assets/c025271b-5e12-4ec8-845f-3944f6cbaa53" width="200">
+
 ## Features
 
 - **Peripheral Management**: Controls GPIO peripherals including LEDs, LCDs, servos, and various sensors.
